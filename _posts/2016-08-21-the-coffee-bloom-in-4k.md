@@ -1,6 +1,7 @@
 ---
-datePublished: '2016-08-21T16:56:21.889Z'
+datePublished: '2016-08-21T16:58:54.647Z'
 sourcePath: _posts/2016-08-21-the-coffee-bloom-in-4k.md
+hasPage: true
 keywords:
   - duration
   - coffee
@@ -18,8 +19,8 @@ author:
     url: 'https://www.youtube.com/channel/UCArZ2EAd0tkhWjClPgcPvzA'
     avatar: {}
 via: {}
-dateModified: '2016-08-21T16:56:21.530Z'
-title: 'OCC - Docuseries '
+dateModified: '2016-08-21T16:58:54.285Z'
+title: OCC - Docuseries
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=AbX1BRjvrw4&feature=applinks'
     type: ios
@@ -64,15 +65,16 @@ publisher:
   domain: www.youtube.com
 description: 'Episode #1'
 inLanguage: en
-hasPage: true
 starred: false
 url: occ-docuseries/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-# OCC - Docuseries 
+# OCC - Docuseries
 
 Episode \#1
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FAbX1BRjvrw4%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAbX1BRjvrw4&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAbX1BRjvrw4%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+Test
