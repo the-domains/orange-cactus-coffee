@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T16:07:33.972Z'
+datePublished: '2016-08-21T16:53:43.133Z'
 sourcePath: >-
   _posts/2016-06-08-hello-we-are-orange-cactus-coffee-we-have-a-passion-for-go.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-21T16:07:33.561Z'
+dateModified: '2016-08-21T16:53:42.441Z'
 title: ''
 publisher: {}
 description: >-
@@ -26,7 +26,7 @@ Hello, we are Orange Cactus Coffee. We have a passion for good coffee. From the 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6544caa5-387f-44e4-963c-6d3cfc1e023e.jpg)
 
 Join us as we embark on our coffee adventure and set out to discover all that coffee can offer. Learn along with us as we start roasting our own bean, studying the different brew methods, and discover what truly makes a good cup of coffee.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d859360-05b8-40da-95d8-216c625e0e50.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7093aec-484a-4b06-8a01-7d73865f2705.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d895457-cda6-4f96-a9d8-a59c21b4401f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8840f3d7-0b64-4aa8-901d-4b0700bc1c91.jpg)
 
