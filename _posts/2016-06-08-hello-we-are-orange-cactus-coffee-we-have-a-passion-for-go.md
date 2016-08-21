@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T15:27:00.672Z'
+datePublished: '2016-08-21T15:33:56.644Z'
 sourcePath: >-
   _posts/2016-06-08-hello-we-are-orange-cactus-coffee-we-have-a-passion-for-go.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-21T15:27:00.264Z'
+dateModified: '2016-08-21T15:33:56.235Z'
 title: ''
 publisher: {}
 description: >-
