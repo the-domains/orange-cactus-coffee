@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T17:00:28.214Z'
+datePublished: '2016-08-21T17:06:40.839Z'
 sourcePath: _posts/2016-08-21-the-coffee-bloom-in-4k.md
 hasPage: true
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/channel/UCArZ2EAd0tkhWjClPgcPvzA'
     avatar: {}
 via: {}
-dateModified: '2016-08-21T17:00:27.824Z'
+dateModified: '2016-08-21T17:06:40.747Z'
 title: OCC - Docuseries
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=AbX1BRjvrw4&feature=applinks'
