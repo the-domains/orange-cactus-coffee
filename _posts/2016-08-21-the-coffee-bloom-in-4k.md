@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T19:17:39.229Z'
+datePublished: '2016-08-21T19:17:41.593Z'
 sourcePath: _posts/2016-08-21-the-coffee-bloom-in-4k.md
 hasPage: true
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/user/way2short233'
     avatar: {}
 via: {}
-dateModified: '2016-08-21T19:17:38.799Z'
+dateModified: '2016-08-21T19:17:41.292Z'
 title: OCC - Docuseries
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=AbX1BRjvrw4&feature=applinks'
@@ -61,7 +61,7 @@ app_links:
 publisher: {}
 description: 'Episode #1'
 inLanguage: en
-starred: false
+starred: true
 url: occ-docuseries/index.html
 _context: 'http://schema.org'
 _type: VideoObject
