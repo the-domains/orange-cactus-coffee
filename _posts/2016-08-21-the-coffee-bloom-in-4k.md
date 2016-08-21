@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T17:15:21.532Z'
+datePublished: '2016-08-21T19:14:36.742Z'
 sourcePath: _posts/2016-08-21-the-coffee-bloom-in-4k.md
 hasPage: true
 keywords:
@@ -15,11 +15,11 @@ keywords:
   - roasting
 related: []
 author:
-  - name: Orange Cactus Coffee
-    url: 'https://www.youtube.com/channel/UCArZ2EAd0tkhWjClPgcPvzA'
+  - name: Mike kinkade
+    url: 'https://www.youtube.com/user/way2short233'
     avatar: {}
 via: {}
-dateModified: '2016-08-21T17:15:21.067Z'
+dateModified: '2016-08-21T19:14:36.318Z'
 title: OCC - Docuseries
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=AbX1BRjvrw4&feature=applinks'
@@ -58,11 +58,7 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+publisher: {}
 description: 'Episode #1'
 inLanguage: en
 starred: true
@@ -75,4 +71,4 @@ _type: VideoObject
 
 Episode \#1
 
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FAbX1BRjvrw4%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAbX1BRjvrw4&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAbX1BRjvrw4%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FtkDfLC6AHJk%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtkDfLC6AHJk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtkDfLC6AHJk%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
