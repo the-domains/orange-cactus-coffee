@@ -1,4 +1,3 @@
-layout_spectrum: 0.28236
 typography_spectrum: 0.4527633050456643
 color:
   brandColors:
@@ -11,19 +10,24 @@ color:
   lightness: 0.3358659422956407
   saturation: 0.6756926751695573
   rhythmicContrast: 0.7776343061123043
-name: Orange Cactus Coffee
-favicon: null
-title: 'Experience Coffee '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.28236
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Orange Cactus Coffee
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About
+    id: 44ea5649-04f5-4c20-bf7f-c0ec64ee4491
+    type: content
+favicon: null
+title: 'Experience Coffee '
 purpose: []
