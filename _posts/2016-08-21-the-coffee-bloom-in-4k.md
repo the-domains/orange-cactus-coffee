@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T19:17:41.593Z'
+datePublished: '2016-08-22T04:04:17.711Z'
 sourcePath: _posts/2016-08-21-the-coffee-bloom-in-4k.md
 hasPage: true
 keywords:
@@ -19,8 +19,8 @@ author:
     url: 'https://www.youtube.com/user/way2short233'
     avatar: {}
 via: {}
-dateModified: '2016-08-21T19:17:41.292Z'
-title: OCC - Docuseries
+dateModified: '2016-08-22T04:04:17.261Z'
+title: Orange Cactus Coffee - Docuseries
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=AbX1BRjvrw4&feature=applinks'
     type: ios
@@ -67,7 +67,7 @@ _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-# OCC - Docuseries
+# Orange Cactus Coffee - Docuseries
 
 Episode \#1
 
