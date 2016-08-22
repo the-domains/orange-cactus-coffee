@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T04:12:10.384Z'
+datePublished: '2016-08-22T04:55:01.888Z'
 sourcePath: _posts/2016-08-21-occ-episode-1.md
 isBasedOnUrl: 'https://youtu.be/tkDfLC6AHJk'
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/user/way2short233'
     avatar: {}
 via: {}
-dateModified: '2016-08-22T04:12:10.032Z'
+dateModified: '2016-08-22T04:55:01.394Z'
 title: Orange Cactus Coffee - Docuseries
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=tkDfLC6AHJk&feature=applinks'
@@ -80,4 +80,4 @@ _type: VideoObject
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FtkDfLC6AHJk%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtkDfLC6AHJk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtkDfLC6AHJk%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 Our first meeting. Location... Starbucks. Why? Because they are the only coffee shop open @ 6 on Sunday.
-![Buisness...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/02a535c0-6477-43c7-a71e-ac0e8be03291.jpg)
+![Business...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/02a535c0-6477-43c7-a71e-ac0e8be03291.jpg)
