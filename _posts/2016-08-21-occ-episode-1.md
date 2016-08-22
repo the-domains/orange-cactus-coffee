@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-21T18:43:17.124Z'
+datePublished: '2016-08-22T03:57:40.693Z'
+sourcePath: _posts/2016-08-21-occ-episode-1.md
 isBasedOnUrl: 'https://youtu.be/tkDfLC6AHJk'
 keywords:
   - kinkade
@@ -18,8 +19,8 @@ author:
     url: 'https://www.youtube.com/user/way2short233'
     avatar: {}
 via: {}
-dateModified: '2016-08-21T18:42:35.020Z'
-title: 'OCC Episode #1'
+dateModified: '2016-08-22T03:57:40.204Z'
+title: Orange Cactus Coffee - Docuseries
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=tkDfLC6AHJk&feature=applinks'
     type: ios
@@ -64,10 +65,9 @@ publisher:
   domain: youtu.be
 description: >-
   Our first meeting. Location… Starbucks. Why? Because they are the only coffee
-  shop open @ 6 on Sunday. 
+  shop open @ 6 on Sunday.
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-21-occ-episode-1.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -75,6 +75,8 @@ _context: 'http://schema.org'
 _type: VideoObject
 
 ---
+# Orange Cactus Coffee - Docuseries
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FtkDfLC6AHJk%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtkDfLC6AHJk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtkDfLC6AHJk%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 Our first meeting. Location... Starbucks. Why? Because they are the only coffee shop open @ 6 on Sunday.
