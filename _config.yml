@@ -28,9 +28,6 @@ navigation:
   - name: About
     id: 0861ff2e-052e-4174-9525-9ce7f5e7fdc6
     type: content
-  - name: OCC - Docuseries
-    id: 71391fb7-a801-428f-bbe0-2a08f997e017
-    type: content
 favicon: null
 title: 'Experience Coffee '
 purpose: []
