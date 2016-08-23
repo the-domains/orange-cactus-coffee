@@ -19,11 +19,6 @@ analytics:
   google: null
   facebook: null
   twitter: null
-author:
-  name: Orange Cactus Coffee
-  email: orangecactuscoffee@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9db38c6-ec81-49ba-826f-57c4ada8cbba.jpg
 name: Orange Cactus Coffee
 cta:
   domain: null
