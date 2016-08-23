@@ -1,20 +1,18 @@
 ---
-datePublished: '2016-08-23T01:13:38.605Z'
-isBasedOnUrl: 'https://www.youtube.com/watch?v=3sw64T-aTDo'
+datePublished: '2016-08-23T01:14:11.986Z'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-23T01:12:54.489Z'
+dateModified: '2016-08-23T01:14:11.491Z'
 title: Orange Cactus Coffee - Docuseries
 app_links: []
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-08-23-orange-cactus-coffee-docuseries.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: orange-cactus-coffee-docuseries/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
